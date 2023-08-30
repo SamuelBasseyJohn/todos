@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:todo_app/model/todo_model.dart';
 import 'package:todo_app/ui/views/homepage.dart';
 
 void main() {
   runApp(const MyApp());
-
 }
 
 class MyApp extends StatelessWidget {
